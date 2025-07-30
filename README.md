@@ -10,8 +10,8 @@ Inspired by the extensive use of classical approaches for multi-modal image regi
 
 ## Quick summary of results
 
-* Some of the classical approaches show a marginal improvement in the quantitative metrics to evaluate image registration.
-* NeMARmodel does not show any improvement in quantitative metrics. However, a shift in the images were observed in the initial epochs while training the NeMAR model.
+* Some of the classical approaches show a marginal improvement in the quantitative metrics used to evaluate image registration.
+* NeMAR model does not show any improvement in quantitative metrics. However, a shift in the images were observed in the initial epochs while training the NeMAR model.
 * MURF model, in our observation, struggles to handle non-linear shifts between the RGB and NIR images.
 
 
